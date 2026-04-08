@@ -16,3 +16,4 @@ let add =()=>{
 let sum=add();
 sum=sum+sum;
 console.log(sum);
+console.log("hello world");
